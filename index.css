@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+.form-container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f2a8ca; 
+}
+.form-group {
+    margin-bottom: 10px;
+}
+.form-label {
+    display: block;
+    font-weight: bold;
+}
+.form-input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+.form-radio-label {
+    margin-right: 10px;
+}
+.form-buttons {
+    text-align: center;
+}
